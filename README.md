@@ -1,6 +1,8 @@
 # Quantum-computing
 Analysing the quantum circuit and infering the output.
 
+Quirk Quantum Simulator - https://algassert.com/quirk for circuit analysis.
+
 
 Consider the following quantum circuit:<br> <br>
 ![image](https://user-images.githubusercontent.com/84000497/187093051-b513dafe-afc9-41c5-a1c9-b1338d628d17.png)
